@@ -1,0 +1,20 @@
+/*  TODO */
+
+.button-container {
+text-align: center;
+
+}
+.hover-button {
+    background-color:palevioletred;
+    border: 3px solid pink;color: white;
+    padding: 15px 35px ;
+    font-size: 20px;
+    border-radius: 50px;
+    
+}
+.hover-button:hover{
+    background-color: purple;
+    border-color: darkred;
+}
+
+
